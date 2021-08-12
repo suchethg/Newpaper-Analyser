@@ -1,4 +1,4 @@
-# Newpaper-Summarizer
+# Newspaper-Summarizer
 
 install tkinter in anaconda prompt by using the command :
  apt-get install python-
