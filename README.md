@@ -1,4 +1,4 @@
-# Newpaper-Analyser
+# Newpaper-Summarizer
 
 install tkinter in anaconda prompt by using the command :
  apt-get install python-
